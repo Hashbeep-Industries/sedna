@@ -4,7 +4,7 @@ plugins {
 }
 
 val semver: String by project
-val packageGroup = "li.cil.sedna"
+val packageGroup = "me.hashbeep.sedna"
 
 fun getGitRef(): String {
     return providers.exec {

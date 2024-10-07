@@ -12,13 +12,13 @@ some notable ones.
 
 | Package                                                            | Description                                              |
 |--------------------------------------------------------------------|----------------------------------------------------------|
-| [li.cil.sedna.device](src/main/java/li/cil/sedna/device)           | Non-ISA specific device implementations.                 |
-| [li.cil.sedna.devicetree](src/main/java/li/cil/sedna/devicetree)   | Utilities for constructing device trees.                 |
-| [li.cil.sedna.elf](src/main/java/li/cil/sedna/elf)                 | An ELF loader, currently only used to load tests.        |
-| [li.cil.sedna.fs](src/main/java/li/cil/sedna/fs)                   | Virtual file system layer for VirtIO filesystem device.  |
-| [li.cil.sedna.instruction](src/main/java/li/cil/sedna/instruction) | Instruction loader and decoder generator.                |
-| [li.cil.sedna.memory](src/main/java/li/cil/sedna/memory)           | Memory map implementation and utilities.                 |
-| [li.cil.sedna.riscv](src/main/java/li/cil/sedna/riscv)             | RISC-V CPU and devices (CLINT, PLIC).                    |
+| [me.hashbeep.sedna.device](src/main/java/li/cil/sedna/device)           | Non-ISA specific device implementations.                 |
+| [me.hashbeep.sedna.devicetree](src/main/java/li/cil/sedna/devicetree)   | Utilities for constructing device trees.                 |
+| [me.hashbeep.sedna.elf](src/main/java/li/cil/sedna/elf)                 | An ELF loader, currently only used to load tests.        |
+| [me.hashbeep.sedna.fs](src/main/java/li/cil/sedna/fs)                   | Virtual file system layer for VirtIO filesystem device.  |
+| [me.hashbeep.sedna.instruction](src/main/java/li/cil/sedna/instruction) | Instruction loader and decoder generator.                |
+| [me.hashbeep.sedna.memory](src/main/java/li/cil/sedna/memory)           | Memory map implementation and utilities.                 |
+| [me.hashbeep.sedna.riscv](src/main/java/li/cil/sedna/riscv)             | RISC-V CPU and devices (CLINT, PLIC).                    |
 
 ## RISC-V Extensions
 
